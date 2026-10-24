@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "Livret de Recettes",
+    "slug": "livret-recettes-app",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "livret-recettes-app",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.linkmj.livretrecettes",
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "NOTIFICATIONS",
+        "RECEIVE_BOOT_COMPLETED",
+        "VIBRATE"
+      ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a270a0af-636f-4f8f-8e36-fca424ec9943"
+      },
+      "runtimeVersion": {
+        "policy": "appVersion"
+      },
+      "updates": {
+        "url": "https://u.expo.dev/a270a0af-636f-4f8f-8e36-fca424ec9943"
+      },
+      "ios": {}
+    },
+    "plugins": [
+      "@react-native-google-signin/google-signin",
+      "expo-font",
+      "expo-router",
+      "expo-web-browser"
+    ],
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a270a0af-636f-4f8f-8e36-fca424ec9943"
+    },
+    "ios": {}
+  }
+}

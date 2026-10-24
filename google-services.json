@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861517711855",
+    "project_id": "livret-de-recettes",
+    "storage_bucket": "livret-de-recettes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861517711855:android:6e566d095e1bb7e75a4e1a",
+        "android_client_info": {
+          "package_name": "com.linkmj.livretrecettes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861517711855-hs6tljqijoimno4iucu51mka471312sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTfBFp51aISOsY8JRS6EiJO4InSMllivk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861517711855-edt4nos7bfs3m4n9mghlfn0o972g47js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
